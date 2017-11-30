@@ -1,0 +1,182 @@
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.dll.config
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLineDataModel.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Owin.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLineDataModel.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.pdb
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.dll.config
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.pdb
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLineDataModel.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Owin.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLineLib.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.pdb
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLineDataModel.pdb
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\StreamLineLib.pdb
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.dll
+C:\Users\Zach\Documents\ccw\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.pdb
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\ApplicationInsights.config
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\csc.exe
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\vbc.exe
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.dll.config
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.Tests.pdb
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Helpers.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Mvc.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Razor.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLineDataModel.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Optimization.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Owin.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLineLib.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\EntityFramework.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLine.pdb
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Helpers.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Mvc.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Razor.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLineDataModel.pdb
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\System.Web.Optimization.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\StreamLineLib.pdb
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\EntityFramework.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\PRO150-S2\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.csprojResolveAssemblyReference.cache
+C:\PRO150-S2\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.dll
+C:\PRO150-S2\StreamLine\StreamLine.Tests\obj\Debug\StreamLine.Tests.pdb
+C:\PRO150-S2\StreamLine\StreamLine.Tests\bin\Debug\RapidAPISDK.dll

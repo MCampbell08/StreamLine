@@ -1,0 +1,120 @@
+.page-body{
+    border-style: solid;
+    border-color: black;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    margin-top: 38px;
+    clear: both;
+    background-color: white;
+}
+
+.body-content{
+    background-color: white;
+}
+
+body{
+    background-color: #D2D1CA;
+}
+
+.profile-add-friend{
+    float: right;
+}
+
+.SpotifyPlaylist{
+    float: right;
+    padding: 5px;
+}
+
+a {
+    color: black;
+    margin: 10px;
+}
+
+a:hover {
+    color:gray;
+}
+
+footer {
+    background-color: #ACC4FF;
+    clear: both;
+}
+
+.copyright {
+    color:black;
+    margin: 10px;
+}
+
+.navbar-inverse {
+    border-style: none;
+    background-color: #ACC4FF;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: black;
+}
+
+.profile-image-user{
+    width: 150px;
+    height: 150px;
+    float: right;
+    background-color: red;
+    margin: 15px;
+    margin-top: 0px;
+}
+
+.twitter-Data-View{
+    
+    width: 550px;
+    /*margin: 0px auto;*/
+    float: left;
+    position: relative;
+    clear: both;
+    height: 380px;
+    overflow: auto;
+    margin: 5px;
+}
+
+.Twitter-Data{
+    margin: 15px auto;
+    padding: 5px;
+    width: 525px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    border-top-width: 0px;
+    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.Profile-Image-Twitter{
+    margin-right: 5px;
+    float: left;
+}
+
+.Twitter-Text{
+
+}
+
+.Tweet-Info{
+    clear: left;
+}
+
+.Re-Tweets{
+    float: left;
+}
+
+.Twitter-Favorites{
+    float: right;
+}
+
+.Twitter-Post-Time{
+    margin-left: 33%;
+}
+
+.logo{
+    position: relative;
+    font-size: 25px;
+    top: 15px;
+}

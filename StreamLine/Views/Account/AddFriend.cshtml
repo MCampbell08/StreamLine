@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "AddFriend";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AddFriend</h2>
+
+@using (Html.BeginForm("AddFriend", "Account"))
+{
+    using (var context = new StreamLineDataModel.StreamLineDataEntities())
+    {
+        foreach (var user in context.AspNetUsers)
+        {
+            if (user.UserName != User.Identity.Name){
+            <div class="userInDatabase">
+                <input type="checkbox" name="friend" value=@user.Email/> @user.UserName
+            </div>
+            }
+        }
+        <input type="submit" value="Add" />
+    }
+}

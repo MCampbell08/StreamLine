@@ -1,0 +1,15 @@
+﻿@model StreamLine.Models.PostUserInstaFeed
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<body>
+    @foreach (var tweet in Model.InstaFeed)
+    {
+        @Html.Partial("TweetPartial", tweet)
+    }
+</body>
+</html>

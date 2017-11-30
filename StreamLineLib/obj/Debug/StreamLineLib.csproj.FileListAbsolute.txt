@@ -1,0 +1,25 @@
+C:\PRO150-S2\StreamLine\StreamLineLib\bin\Debug\StreamLineLib.dll
+C:\PRO150-S2\StreamLine\StreamLineLib\bin\Debug\StreamLineLib.pdb
+C:\PRO150-S2\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.dll
+C:\PRO150-S2\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.pdb
+C:\PRO150-S2\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.csprojResolveAssemblyReference.cache
+C:\PRO150-S2\StreamLine\StreamLineLib\bin\Debug\Newtonsoft.Json.dll
+C:\PRO150-S2\StreamLine\StreamLineLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLineLib\bin\Debug\StreamLineLib.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLineLib\bin\Debug\StreamLineLib.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLineLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLineLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.pdb
+C:\PRO150-S2\StreamLine\StreamLineLib\bin\Debug\RapidAPISDK.dll
+C:\SixthQuartCode\StreamLine\StreamLineLib\bin\Debug\StreamLineLib.dll
+C:\SixthQuartCode\StreamLine\StreamLineLib\bin\Debug\StreamLineLib.pdb
+C:\SixthQuartCode\StreamLine\StreamLineLib\bin\Debug\Newtonsoft.Json.dll
+C:\SixthQuartCode\StreamLine\StreamLineLib\bin\Debug\RapidAPISDK.dll
+C:\SixthQuartCode\StreamLine\StreamLineLib\bin\Debug\Newtonsoft.Json.xml
+C:\SixthQuartCode\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.csprojResolveAssemblyReference.cache
+C:\SixthQuartCode\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.dll
+C:\SixthQuartCode\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.pdb
+C:\SixthQuartCode\StreamLine\StreamLineLib\bin\Debug\StreamLineLib.dll.config
+C:\SixthQuartCode\StreamLine\StreamLineLib\obj\Debug\StreamLineLib.csproj.CoreCompileInputs.cache

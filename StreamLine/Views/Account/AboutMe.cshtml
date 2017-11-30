@@ -1,0 +1,40 @@
+﻿@model StreamLine.Models.AboutMeModel
+
+@{
+    ViewBag.Title = "AboutMe";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="AboutMePage">
+    <div class="form-group">
+        @Html.LabelFor(m => m.FirstName, new { @class = "col-md-2 control-label" })
+        <div class="FirstNameAboutMe">
+            @Model.FirstName
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.LastName, new { @class = "col-md-2 control-label" })
+        <div class="LastNameAboutMe">
+            @Model.LastName
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.BirthDate, new { @class = "col-md-2 control-label" })
+        <div class="BirthDateAboutMe">
+            @Model.BirthDate
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.AboutMe, new { @class = "col-md-2 control-label" })
+        <div class="AboutMe">
+            @Model.AboutMe
+        </div>
+    </div>
+    <div class="SpotifyPlaylist">
+        @Html.Partial("Spotify", @Model.playlist)
+    </div>
+</div>
+

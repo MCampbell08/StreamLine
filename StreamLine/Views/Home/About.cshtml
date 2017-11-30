@@ -1,0 +1,20 @@
+﻿@model StreamLine.Models.AccountView
+
+@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+@foreach (var accountviews in Model.AllProfileInfo)
+{
+    <div class="accountviews">
+        <div class="FirstName">@accountviews.FirstName</div>
+        <div class="LastName">@accountviews.LastName</div>
+        <div class="Email">@accountviews.Email</div>
+        <div class="UserName">@accountviews.Username</div>
+        <div class="TwitterConnect">@accountviews.TwitterConnect</div>
+        <div class="InstagramConnect">@accountviews.InstagramConnect</div>
+    </div>
+}
+<p>Use this area to provide additional information.</p>

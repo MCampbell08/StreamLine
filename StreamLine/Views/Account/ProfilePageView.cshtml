@@ -1,0 +1,28 @@
+﻿@model StreamLine.Models.DataModels
+
+@{
+    ViewBag.Title = "ProfilePageView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="page-body">
+    @*<div class="profile-image-user">
+        <img src="@Model.DataModel[0]."/>
+    </div>*@
+    <div class="profile-add-friend">
+        @Html.ActionLink("Add friends?", "AddFriend")
+    </div>
+    <div class="profile-add-friend">
+        @Html.ActionLink("Your friends", "FriendList")
+    </div>
+    <div class="twitter-Data-View">
+        @Html.Partial("TwitterDataPartial", Model.DataModel[0])
+    </div>
+    @*<div class="instagram-Data-View">
+        @Html.Partial("InstagramDataPartial", Model.DataModel[1])
+    </div>*@
+    <div class="SpotifyPlaylist">
+        @Html.Partial("SpotifyPlayerPartial", Model.WebPlayer)
+    </div>
+</div>
+

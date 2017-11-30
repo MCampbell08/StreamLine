@@ -1,0 +1,13 @@
+﻿@model StreamLine.Models.PostTwitterDataModel
+
+<div class="Twitter-Data">
+    <div class="Profile-Image-Twitter">
+        <img class="ProfileImage" src="@Model.ImageURL" />
+    </div>
+    <div class="Twitter-Text">@Model.Text</div>
+    <div class="Tweet-Info">
+        <div class="Re-Tweets">RT : @Model.ReTweets</div>
+        <div class="Twitter-Favorites">Fav : @Model.Favorites</div>
+        <div class="Twitter-Post-Time">@Model.DateTime</div>
+    </div>
+</div>

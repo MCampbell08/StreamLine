@@ -1,0 +1,38 @@
+﻿@model StreamLineDataModel.AspNetUser
+
+@{
+    ViewBag.Title = "FriendList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>FriendList</h2>
+
+@{
+    string friend = "";
+    StreamLineDataModel.StreamLineDataEntities context = new StreamLineDataModel.StreamLineDataEntities();
+    var user = context.AspNetUsers.Single(u => u.Email == User.Identity.Name);
+    StreamLine.Models.SpotifyPlaylist playlist = new StreamLine.Models.SpotifyPlaylist();
+    playlist.SpotifyPlaylistURL = user.SpotifyPlaylistUri;
+}
+@foreach (char c in Model.Friends)
+{
+    if (c != '&')
+    {
+        friend += c;
+    }
+    else
+    {
+        <div class="friendUser">
+            <div class="friendEmail">
+                @friend
+            </div>
+            <div class="friendOptions">
+                <div>@Html.ActionLink("View User", "UserProfile", new { friend = friend })</div>
+                <div>@Html.ActionLink("Remove Friend", "RemoveFriend", new { friend = friend })</div>
+            </div>
+        </div>
+    }
+}
+<div class="SpotifyPlaylist">
+    @Html.Partial("SpotifyPlayerPartial", playlist)
+</div>

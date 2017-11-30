@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="StreamLineDataModelStoreContainer" CdmEntityContainer="StreamLineDataEntities">
+    <EntitySetMapping Name="ProfileInformations">
+      <EntityTypeMapping TypeName="StreamLineDataModel.ProfileInformation">
+        <MappingFragment StoreEntitySet="ProfileInformation">
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="TwitterConnect" ColumnName="TwitterConnect" />
+          <ScalarProperty Name="InstagramConnect" ColumnName="InstagramConnect" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

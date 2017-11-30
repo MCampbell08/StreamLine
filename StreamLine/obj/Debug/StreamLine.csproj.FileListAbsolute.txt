@@ -1,0 +1,407 @@
+C:\SixthQuartCode\StreamLine\StreamLine\bin\ApplicationInsights.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\csc.exe
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Collections.Immutable.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\vbc.exe
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLine.dll.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLine.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLine.pdb
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Antlr3.Runtime.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\EntityFramework.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\EntityFramework.SqlServer.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.Agent.Intercept.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.Web.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Web.Infrastructure.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Newtonsoft.Json.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Owin.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Helpers.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Mvc.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Optimization.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Razor.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.WebPages.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\WebGrease.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.Web.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Helpers.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Mvc.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Optimization.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.Razor.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.WebPages.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Antlr3.Runtime.pdb
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Newtonsoft.Json.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\EntityFramework.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\EntityFramework.SqlServer.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.csprojResolveAssemblyReference.cache
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.dll
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.pdb
+C:\PRO150-S2\StreamLine\StreamLine\bin\ApplicationInsights.config
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\csc.exe
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\System.Collections.Immutable.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\vbc.exe
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe
+C:\PRO150-S2\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe.config
+C:\PRO150-S2\StreamLine\StreamLine\bin\StreamLine.dll.config
+C:\PRO150-S2\StreamLine\StreamLine\bin\StreamLine.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\StreamLine.pdb
+C:\PRO150-S2\StreamLine\StreamLine\bin\Antlr3.Runtime.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\EntityFramework.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\EntityFramework.SqlServer.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.Agent.Intercept.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.Web.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Web.Infrastructure.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Newtonsoft.Json.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Owin.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Helpers.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Mvc.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Optimization.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Razor.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.WebPages.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\WebGrease.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.Web.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Helpers.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Mvc.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Optimization.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.Razor.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.WebPages.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Antlr3.Runtime.pdb
+C:\PRO150-S2\StreamLine\StreamLine\bin\Newtonsoft.Json.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\EntityFramework.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\EntityFramework.SqlServer.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\PRO150-S2\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.csprojResolveAssemblyReference.cache
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.dll
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.pdb
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\ApplicationInsights.config
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\csc.exe
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\vbc.exe
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\StreamLine.dll.config
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\StreamLine.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\StreamLine.pdb
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Antlr3.Runtime.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\EntityFramework.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\EntityFramework.SqlServer.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.Web.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Newtonsoft.Json.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Owin.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Helpers.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Mvc.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Optimization.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Razor.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.WebPages.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\WebGrease.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.Web.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Helpers.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Mvc.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Optimization.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.Razor.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.WebPages.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Antlr3.Runtime.pdb
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Newtonsoft.Json.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\EntityFramework.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\EntityFramework.SqlServer.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\obj\Debug\StreamLine.csprojResolveAssemblyReference.cache
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\obj\Debug\StreamLine.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\obj\Debug\StreamLine.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\ApplicationInsights.config
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\csc.exe
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\vbc.exe
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\StreamLine.dll.config
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\StreamLine.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\StreamLine.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Antlr3.Runtime.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\EntityFramework.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\EntityFramework.SqlServer.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.Web.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Newtonsoft.Json.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Owin.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\StreamLineDataModel.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Helpers.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Mvc.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Optimization.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Razor.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.WebPages.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\WebGrease.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\StreamLineDataModel.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.Web.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Helpers.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Mvc.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Optimization.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.Razor.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.WebPages.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\System.Web.WebPages.Razor.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Antlr3.Runtime.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Newtonsoft.Json.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\EntityFramework.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\EntityFramework.SqlServer.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\obj\Debug\StreamLine.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\obj\Debug\StreamLine.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\obj\Debug\StreamLine.pdb
+C:\PRO150-S2\StreamLine\StreamLine\bin\StreamLineDataModel.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\StreamLineLib.dll
+C:\PRO150-S2\StreamLine\StreamLine\bin\StreamLineDataModel.pdb
+C:\PRO150-S2\StreamLine\StreamLine\bin\StreamLineLib.pdb
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\StreamLineLib.dll
+C:\Users\Matthew Balderas\Documents\ccw\StreamLine\StreamLine\bin\StreamLineLib.pdb
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\StreamLineDataModel.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\StreamLineLib.dll
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\StreamLineDataModel.pdb
+C:\Users\Zenex57\Desktop\StreamLine Project\StreamLine\StreamLine\bin\StreamLineLib.pdb
+C:\PRO150-S2\StreamLine\StreamLine\bin\RapidAPISDK.dll
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.FirstName.resources
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.csproj.GenerateResource.Cache
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.LastName.resources
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.BirthDate.resources
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.AboutMe.resources
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.SpotifyPlaylistUri.resources
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.TwitterConnect.resources
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.InstagramConnect.resources
+C:\PRO150-S2\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.Friends.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.FirstName.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.LastName.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.BirthDate.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.AboutMe.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.SpotifyPlaylistUri.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.TwitterConnect.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.InstagramConnect.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.Migrations.Friends.resources
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.csproj.GenerateResource.Cache
+C:\SixthQuartCode\StreamLine\StreamLine\bin\RapidAPISDK.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLineDataModel.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLineLib.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLineDataModel.pdb
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLineLib.pdb
+C:\SixthQuartCode\StreamLine\StreamLine\obj\Debug\StreamLine.csproj.CoreCompileInputs.cache
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\csc.exe.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\csc.rsp
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\csi.exe
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\csi.exe.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\csi.rsp
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.AppContext.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Console.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Diagnostics.Process.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.IO.Compression.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.IO.FileSystem.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.IO.Pipes.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Security.AccessControl.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Security.Claims.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Threading.Thread.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.ValueTuple.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Xml.XPath.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\vbc.exe.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\roslyn\vbc.rsp
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Diagnostics.DiagnosticSource.dll
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLineDataModel.dll.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\StreamLineLib.dll.config
+C:\SixthQuartCode\StreamLine\StreamLine\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\SixthQuartCode\StreamLine\StreamLine\bin\System.Diagnostics.DiagnosticSource.xml

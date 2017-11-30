@@ -1,0 +1,20 @@
+﻿@model StreamLine.Models.PostUserTweets
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ProfilePageView</title>
+</head>
+<body>
+    @foreach (var tweet in Model.Tweets)
+    {
+        @Html.Partial("TweetPartial", tweet)
+    }
+</body>
+</html>
+
